@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7227972835",
+    "project_id": "petitannounce",
+    "storage_bucket": "petitannounce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7227972835:android:b20ef3318940cf73b879d6",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7227972835-u016lvo2eoluk457cgguq2rmstroee18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQ7NCw86xfSSxBdzZeEhavZ6ZYLMJ_ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7227972835-u016lvo2eoluk457cgguq2rmstroee18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

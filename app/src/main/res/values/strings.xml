@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">M_A</string>
+    <string name="my_acc">Mon compte</string>
+    <string name="add_ad">Ajouter une annonce</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="action_settings">Parametres</string>
+    <string name="name">Nom</string>
+    <string name="select_city">Choisissez une ville</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="phone_number">Numéro de telephone</string>
+    <string name="account_type">Type du compte</string>
+    <string name="acc_particular">Particulier</string>
+    <string name="acc_professional">Professionnel</string>
+    <string name="signUp">S\'inscrire</string>
+    <string name="logIn">Se connecter</string>
+    <string name="signUp_free">Nouveau ? Inscrivez-Vous!</string>
+    <string name="photos">Photos</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="se_deconnecter">Se deconnecter</string>
+    <string name="i_do_not_have_an_account">"je n'ai pas de compte"</string>
+    <string name="Enter_your_ads">Saisissez votre annonce</string>
+    <string name="Call">Appeler</string>
+    <string name="Inscription">Inscription</string>
+    <string name="search">Recherchez votre article,ici!</string>
+    <string name="Items">Articles:</string>
+    <string name="Price">Prix:</string>
+    <string name="Item_details">"Détails de l'article"</string>
+    <string name="Your_profile">votre profil</string>
+    <string name="about_this_App">À propos de cette application</string>
+    <string name="Titre_ads">"Titre de l'annonce"</string>
+    <string name="Description_ads">"Description de l'annonce"</string>
+    <string name="Price_ads">"Prix de l'annonce"</string>
+    <string name="Change_photo">Changer la photo</string>
+    <string name="sell_buy_easily">Achetez et vendez en toute sécurité!</string>
+    <string name="about">à propos de</string>
+    <string name="detail_description">"Cette application est un environnement convivial et sûr permettant aux utilisateurs d'acheter ou de vendre les biens souhaités; Nous serions ravis et honorés que vous nous rejoigniez.
+Pour commencer, inscrivez-vous simplement en cliquant sur le bouton ci-dessous."</string>
+    <string-array name="locations">
+        <item>Montpellier</item>
+        <item>Paris</item>
+        <item>Lyon</item>
+        <item>Nice</item>
+        <item>Marseille</item>
+    </string-array>
+
+
+</resources>
